@@ -1,0 +1,1 @@
+INSERT INTO tb_course (name, category) VALUES ('Angular com Spring', 'front-end');
